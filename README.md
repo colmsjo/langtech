@@ -1,8 +1,7 @@
-Playing around with python and language technology (parsers etc.).
+# Playing around with python and language technology (parsers etc.).
 
 
-Parser based on Stephen Pinkers book The Language Instinct
-----------------------------------------------------------
+## Parser based on Stephen Pinkers book The Language Instinct
 
 Run the parser: `./pinker_parser.py "The dog likes ice_cream"` or (`python pinker_parser.py "The dog likes ice_cream"` if you are on Windows)
 
