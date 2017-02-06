@@ -9,4 +9,4 @@ Show the vocabulary: `./pinker_parser.py help` (or `python pinker_parser.py help
 
 Run the tests: `python test_pinker_parser.py`
 
-The parser will just exit if you feed with a sentence it does not understand.
+The parser will just exit if you feed it with a sentence it does not understand.
